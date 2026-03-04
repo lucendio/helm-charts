@@ -24,7 +24,7 @@ image:
   ## @param image.repository Ghost image repository
   repository: ghost
   ## @param image.tag Ghost image tag
-  tag: "6.19.4@sha256:ec5b917a16bf86c6dea812002e1580bc8dedc932b1a71c61ee8da7db62884cbb"
+  tag: "6.20.0@sha256:5bd610ad07ad35ce39247c7055c9d6c47ff25f40631453fc8f7311042f362c36"
   ## @param image.pullPolicy Ghost image pull policy
   pullPolicy: Always
 
